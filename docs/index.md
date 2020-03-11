@@ -1,4 +1,3 @@
-IRTF NMRG Web Site
 
 IRTF NMRG [charter](https://irtf.org/nmrg)
 
